@@ -1,6 +1,6 @@
-## Salve, salve!!
+## Olaa!!
 
-Estudante - **UTFPR** - Engenharia de Computação
+Estudante - **UTFPR** - Engenharia de Computação - CP - 2022
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
